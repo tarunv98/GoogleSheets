@@ -12,7 +12,10 @@ Following are the steps to run the app:
     
     This should create the required nodemodules for the app.
 
-3. Run server.js file using node or nodemon.
+3. Run google.js file using node or nodemon.
+   $ nodemon google.js
+   or
+   $ node google.js
 
 4. The token file for google apis is already added. If the token is expired it might ask for login. Kindly check the console for login link and follow the the steps below:
   <<only to create new token file>>
