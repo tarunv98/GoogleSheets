@@ -2,7 +2,7 @@
 Google Sheets API + Stock Market Index(Tiingo API)
 *Example code to use Google Sheets API*
 
-**Instruction:**
+**Instructions:**
 1. Download the contents of the repository to a folder and open the folder in terminal or Visual Studio Code.
 
 2. Run the following commands:
